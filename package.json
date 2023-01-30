@@ -75,7 +75,7 @@
   },
   "dependencies": {
     "@brazilian-utils/brazilian-utils": "^1.0.0-rc.12",
-    "@prisma/client": "^3.14.0",
+    "@prisma/client": "^3.15.2",
     "axios": "^1.2.6",
     "bcrypt": "^5.0.1",
     "cors": "^2.8.5",
